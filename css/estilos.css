@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: roboto, sans-serif;
+}
+.contenedor{
+width: 1920px;
+background-color: rgb(255, 255, 255);
+margin-left: auto;
+margin-right: auto;
+}
+
+header{
+    background-color: #707070;
+    border-radius: 0 0 15px 15px;
+    position: sticky;
+    top: 0;
+}
+
+.menu{
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.bmenu{
+    padding-right: 160px;
+}
+a{
+    color: #ffffff;
+    font-family: bebas neue, sans-serif;
+    font-style: normal;
+}
+.logohome{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2px;
+    margin-bottom: 18px;   
+}
+.x1home{
+    display: block;
+    margin-left: 100px;
+    margin-top: 70px;
+}
+h3{
+    text-align: center;
+    font-size: 22px;
+}
+.x2home{
+    display: block;
+    margin-left: 1450px;
+    margin-top: 20px;
+}
+
+
+
+p{
+   text-align: center;
+   font-size: 30px;
+   margin-top: 380px;
+   margin-bottom: 1px;
+}
+h2{
+    font-family: bebas neue;
+    font-size: 91px;
+    text-align: center;
+}
+.galeria{
+    width: 1549px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* majesty grande */
+img.majestygrande{
+    display: block;
+    width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 75px;
+}
+a.volver{
+    display: block;
+    color: black;
+    text-align: center;
+    font-size: 32px;
+
+}
+
+article{
+    width: 900;
+}
+img.mifoto{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 446px;
+
+}
+h2.sobre{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p.sobre{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 100px;
+    width: 640px;
+}
+
+div.redes{
+    width: 60px;
+    height: 250px;
+    background-color: #ffffff;
+    position: fixed;
+    top: 400px;
+    border-radius: 13px;
+}
+li{
+    list-style: none;
+}
